@@ -5,4 +5,4 @@ O código fonte é mais simples mais o resultado é muito bacana e aprendendo el
 
 Link do projeto rodando em um emulador online no site tinkercad: https://www.tinkercad.com/things/cIhgK1DJ94R-pianinho
 
-!(Arduino)[https://image.ibb.co/jfZPhn/Pianinho01.png]
+![Arduino](https://image.ibb.co/jfZPhn/Pianinho01.png)
